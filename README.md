@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @jun-2525
-- 👀 I’m interested in Web, Python ETC.
-- 🌱 I’m currently learning ...
+# 안녕하세요 !
 
-<!---
-jun-2525/jun-2525 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I interested in Markup language, Web and mobile Accessibility, Python
+
+Using
+- Python, Java, HTML, CSS, bootstrap, ETC
+
+Interest 
+- AWS, docker, Front-end framework 
