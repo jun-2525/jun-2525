@@ -1,9 +1,9 @@
-# 안녕하세요 !
+# 안녕하세요 !😁
 
-I interested in Markup language, Web and mobile Accessibility, Python
+I interested Web and mobile Accessibility, Python etc.
 
 Using
-- Python, Java, HTML, CSS, JavaScript, bootstrap, ETC
+- Python, Java, HTML, CSS, JavaScript, bootstrap, ETC, React(Studying)
 
 Interest 
-- AWS, docker, Front-end framework 
+- AWS, docker, Front-end framework, Accessibility
