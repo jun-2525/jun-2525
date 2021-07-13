@@ -1,9 +1,9 @@
 # 안녕하세요 !😁
+## Using
+### Language
+- Python, C++, JS, JAVA etc.
+### FE
+- HTML, CSS, React
 
-I interested Web and mobile Accessibility, Python etc.
-
-Using
-- Python, Java, HTML, CSS, JavaScript, bootstrap, ETC, React(Studying)
-
-Interest 
+## Interest 
 - AWS, docker, Front-end framework, Accessibility
