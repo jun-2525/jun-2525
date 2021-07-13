@@ -1,5 +1,4 @@
 # 안녕하세요 !😁
-## Using
 ### Language
 - Python, C++, JS, JAVA etc.
 ### FE
