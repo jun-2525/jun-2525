@@ -1,8 +1,8 @@
 # 안녕하세요 !😁
 ### Language
 - Python, C++, JS, JAVA etc.
-### FE
-- HTML, CSS, React
+### Frameworks
+- React, Bootstrap
 
 ## Interest 
 - AWS, docker, Front-end framework, Accessibility
