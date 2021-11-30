@@ -1,8 +1,6 @@
 # 안녕하세요 !😁
-### Language
-- Python, C++, JS, JAVA etc.
-### Frameworks
-- React, Bootstrap
+## Studying
+- HTML, CSS, JS(TS), a11y, React, Node, some PS
 
 ## Interest 
-- AWS, docker, Front-end framework, Accessibility
+- a11y, python, 
