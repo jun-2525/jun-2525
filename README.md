@@ -12,3 +12,6 @@
 - a11y
 - python
 - aws
+
+## Connect
+- ✉ sonjun461245@naver.com
