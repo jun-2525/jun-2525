@@ -16,6 +16,3 @@
 ## Connect
 - ✉ sonjun461245@naver.com
 - ✏ https://velog.io/@jun-2525
-
-## Using
-<center>HTML, CSS, React</center>
