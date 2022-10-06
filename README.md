@@ -13,6 +13,11 @@
 - python
 - aws
 
+## Using
+- VSC
+- Notion
+- Figma
+
 ## Connect
 - ✉ sonjun461245@naver.com
 - ✏ https://velog.io/@jun-2525
