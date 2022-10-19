@@ -5,6 +5,7 @@
 - JS(TS)
 - a11y
 - React
+- Vue
 - Node
 - some PS
 
