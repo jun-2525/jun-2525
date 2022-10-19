@@ -11,7 +11,7 @@
 ## Interest 
 - a11y
 - python
-- aws
+- clean code
 
 ## Using
 - VSC
