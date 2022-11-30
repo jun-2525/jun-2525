@@ -5,19 +5,20 @@
 - JS(TS)
 - a11y
 - React
-- Vue
-- Node
 - some PS
+- infta ( cloud )
 
 ## Interest 
 - a11y
 - python
-- clean code
+- Universal Design
 
 ## Using
 - VSC
 - Notion
 - Figma
+- Github
+- etc...
 
 ## Connect
 - ✉ sonjun461245@naver.com
