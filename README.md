@@ -18,6 +18,8 @@
 - Notion
 - Figma
 - Github
+- WSL
+- GCP, Oracle Cloud
 - etc...
 
 ## Connect
