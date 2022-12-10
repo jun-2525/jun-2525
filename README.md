@@ -1,7 +1,7 @@
 # 안녕하세요 !😁
 
 ## Now
-@ Linkage Lab a kakao corp.
+- @ Linkage Lab a kakao corp.
 
 ## Studying
 - HTML
