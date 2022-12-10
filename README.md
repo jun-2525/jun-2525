@@ -1,12 +1,16 @@
 # 안녕하세요 !😁
+
+@ Linkagelab a11y team
+
 ## Studying
 - HTML
 - CSS
 - JS(TS)
 - a11y
+- WAI-ARIA
+- W3C
 - React
-- some PS
-- infta ( cloud )
+- some PS(resting🙄)
 
 ## Interest 
 - a11y
