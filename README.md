@@ -1,6 +1,6 @@
 # 안녕하세요 !😁
 
-## Now !
+## Now
 💼 @ Linkage Lab a kakao corp.
 
 ## Studying
