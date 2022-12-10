@@ -1,6 +1,6 @@
 # 안녕하세요 !😁
 
-@ Linkagelab a11y team
+🧑‍💼 @ Linkagelab a kakao corp.
 
 ## Studying
 - HTML
