@@ -16,7 +16,6 @@
 ## Interest 
 - a11y
 - python
-- Universal Design
 
 ## Using
 - VSC
