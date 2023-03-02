@@ -1,7 +1,7 @@
 # 안녕하세요 !😁
 
 ## Now
-- @ Linkage Lab a kakao corp.
+- Working
 
 ## Studying
 - HTML
@@ -9,7 +9,7 @@
 - JS(TS)
 - a11y
 - WAI-ARIA
-- W3C
+- WCAG
 - React
 - some PS(resting🙄)
 
