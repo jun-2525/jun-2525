@@ -15,7 +15,8 @@
 
 ## Interest 
 - a11y
-- python
+- UI / UX
+- GPT
 
 ## Using
 - VSC
